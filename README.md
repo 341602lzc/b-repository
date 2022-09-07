@@ -1,1 +1,3 @@
-# b-repository
+ <php>
+   16
+     phpinfo();
